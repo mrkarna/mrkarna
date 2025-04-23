@@ -2,13 +2,13 @@
 
 ## 🧑‍💻 About Me:
 
-I'm a **Software Engineer** with over 3 years of backend development experience.  
-I'm passionate about **building large-scale distributed systems** and crafting reliable and scalable infrastructure.  
+I'm a **Software Engineer** with over 3 years of backend development experience. I'm passionate about **building large-scale distributed systems** and crafting reliable and scalable infrastructure.  
 
-💼 I've worked with tech giants like **Amazon** and **Nvidia**, developing production-grade systems using **Java, Go, Python, Spring Boot**, and leveraging cloud platforms like **AWS** and **Google Cloud**.  
-🎓 I hold an **MS in Computer Science** from the **University of Massachusetts Amherst, USA** and a **B.Tech from IIT Dhanbad**.  
+🚀 I've worked with tech giants like **Amazon** and **Nvidia**, developing production-grade systems using **Java, Go, Python, Spring Boot**, and leveraging cloud platforms like **AWS** and **Google Cloud**.  
 
-Let's connect and build something amazing!
+🎓 I hold an **MS in Computer Science** from the **University of Massachusetts Amherst, USA** and a **B.Tech. from IIT Dhanbad**.  
+
+🤝 Let's connect and build something amazing!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrkarna/)
